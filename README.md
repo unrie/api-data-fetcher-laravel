@@ -12,7 +12,7 @@
 ```php
 // app/Services/ApiService.php
 
-private $baseUrl = ''; // Хост
+private $baseUrl = ''; // Хост:Порт
 private $key = ''; // Ключ
 ```
 
