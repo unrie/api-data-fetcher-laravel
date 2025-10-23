@@ -2,9 +2,10 @@
 
 ## Database Access
 
-**Host:** [https://dash.infinityfree.com](https://dash.infinityfree.com )   
-**Username:** sobkosergey2000@yandex.ru  
-**Password:** kAw-Rf3-JbP-u8C]  
+**Host:** https://cpanel.ezyro.com  
+**Username:** ezyro_40238896  
+**Password:** df29f9  
+**Database:** ezyro_40238896_apidatafetcher  
 
 ## Database Tables
 
