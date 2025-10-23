@@ -2,7 +2,7 @@
 
 ## Database Access
 
-**Host:** https://cpanel.ezyro.com  
+**CP:** https://cpanel.ezyro.com  
 **Username:** ezyro_40238896  
 **Password:** df29f9  
 **Database:** ezyro_40238896_apidatafetcher  
