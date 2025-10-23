@@ -1,5 +1,11 @@
 # API Data Fetcher Project
 
+## Database Access
+
+**Host:** [https://dash.infinityfree.com](https://dash.infinityfree.com )   
+**Username:** sobkosergey2000@yandex.ru  
+**Password:** kAw-Rf3-JbP-u8C]  
+
 ## Database Tables
 
 - `sales` - данные о продажах
