@@ -1,11 +1,4 @@
-# API Data Fetcher Project
-
-## Database Access
-
-**CP:** https://cpanel.ezyro.com  
-**Username:** ezyro_40238896  
-**Password:** df29f9  
-**Database:** ezyro_40238896_apidatafetcher  
+# API Data Fetcher Project  
 
 ## Database Tables
 
